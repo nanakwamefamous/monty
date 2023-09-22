@@ -71,45 +71,6 @@ The following opcodes are supported by the interpreter:
 - `nop:`  does nothing.
 
 
-For more information on how to use the Monty Interpreter see below.
-
-### Examples
-
-Example 1
-
-    push 1
-    push 2
-    push 3
-    pall
-    pop
-    pall
-    pop
-    pall
-    pop
-    pall
-
-
-Output
-
-    3
-    2
-    1
-    2
-    1
-    1
-
-Example 2
-
-    push 1
-    push 2
-    push 3
-    add
-    pall
-
-Output
-
-    5
-
 ## AUTHOR(s)
 
 This program was written by `nanakwamefamous` & `tonyarthur1991`. 
